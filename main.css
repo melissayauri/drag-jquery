@@ -9,8 +9,8 @@
   .graph-day{
     width: 80px;
     height: 190px;
-    background-color: blue;
-    color: white;
+   /* background-color: blue;
+    color: white;*/
     display: inline-block;
     cursor: pointer;
   }
