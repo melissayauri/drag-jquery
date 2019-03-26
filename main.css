@@ -1,11 +1,11 @@
 .graph-days{
-    width: 200px;
+    width: 900px;
     height: 200px;
     border: 1px solid black;
     white-space: nowrap;
     overflow: hidden;
   }
-
+  
   .graph-day{
     width: 80px;
     height: 190px;
@@ -13,7 +13,4 @@
     color: white;
     display: inline-block;
     cursor: pointer;
-  }
-  .graph-day button{
-    border-radius: 20px;
   }
