@@ -1,16 +1,16 @@
 .graph-days{
-    width: 300px;
-    height: 200px;
-    border: 1px solid black;
-    white-space: nowrap;
-    overflow: hidden;
-  }
-  
-  .graph-day{
-   /* width: 80px;*/
-    height: 190px;
-   /* background-color: blue;
-    color: white;*/
-    display: inline-block;
-    cursor: pointer;
-  }
+  width: 900px;
+  height: 200px;
+  border: 1px solid black;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.graph-day{
+  width: 80px;
+  height: 190px;
+  background-color: blue;
+  color: white;
+  display: inline-block;
+  cursor: pointer;
+}
